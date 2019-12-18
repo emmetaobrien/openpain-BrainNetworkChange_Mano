@@ -1,5 +1,5 @@
 {
-    "title": "OpenPain thermal",
+    "title": "OpenPain BrainNetworkChange_Mano",
     "description": "Data added from ftp://openpain.org/BrainNetworkChange_Mano, see http://openpain.org for more information.",
     
     "creators": [
@@ -51,7 +51,7 @@
 			"category": "contact",
 			"values": [
 				{
-					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+					"value": "A. Vania Apkarian, Director Center for Translational Pain Research, Northwestern University, Feinberg School of Medicine, a-apkarian@northwestern.edu"
 				}
 			]
 		},
@@ -67,7 +67,7 @@
 			"category": "logo",
 			"values": [
 				{
-					"value": "https://avatars3.githubusercontent.com/u/22078250?s=200&v=4"
+					"value": "http://openpain.org/images/OP_Pic1.jpg"
 				}
 			]
 		}
